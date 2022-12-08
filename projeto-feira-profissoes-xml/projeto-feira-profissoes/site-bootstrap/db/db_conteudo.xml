@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<conteudo>
+    <postagem codigo="1">
+        <titulo>A melhor game engine para criar jogos</titulo>
+        <corpo>
+        Nos últimos anos nós tivemos uma grande democratização no processo de desenvolvimento de jogos. Hoje temos acesso a diversas ferramentas de ponta por um preço relativamente baixo ou até mesmo gratuitamente.
+
+E com tantas opções na nossa frente, é inevitável surgir a famosa pergunta:
+        </corpo>
+        <corpo_2>
+        Qual é a melhor game engine?
+        </corpo_2>
+        <corpo_3>
+            Na minha opinião, essa pergunta – que é o principal questionamento de quem está iniciando no desenvolvimento de games – está intrinsecamente errada.
+
+            Ela não contempla duas coisas importante: o que será criado com a ferramenta, e quem a utilizará.
+
+            Sem a inclusão dessas duas variáveis, a pergunta se torna um convite ao erro.
+
+            Então, reformulando, eu acredito que a pergunta que você deve se fazer é a seguinte:
+        </corpo_3>
+        <corpo_4>
+            “Qual é a melhor game engine para mim, levando em conta o jogo que eu quero criar?”
+        </corpo_4>
+        <corpo_5>
+            Como exercício (e diversão) deixa eu te dar um exemplo do dia de alguém que não inclui as variáveis “para quem?” e “para que?” na hora de escolher a sua ferramenta de corte.   
+        </corpo_5>
+        <corpo_6>
+           “Pela manhã, ele está no quintal com um serrote cortando um pedaço de madeira pra colocar na mesa de casa. Depois lava o serrote e começa a cortar a carne em bifes para fazer o almoço. Depois de almoçar, seu filho de 6 anos precisa cortar papel colorido pro trabalho da escola e você empresta seu serrote. De noite, no jantar, usa o serrote para cortar à francesa uma pizza família.”
+        </corpo_6>
+        <corpo_7>
+            Soa absurdo, não soa? Mas é o que algumas pessoas fazem quando se trata de escolha dos programas que usam para criar jogos.
+        </corpo_7>
+        <corpo_8>
+            Agora, talvez, você esteja convencido de que a pessoa que utilizará uma game engine é fundamental na hora de escolher qual ferramenta será mais adequada para ela.
+        </corpo_8>
+        <corpo_9>
+        </corpo_9>
+        <corpo_10>
+        </corpo_10>
+        <imagem fileName="img_a.jpg">pizza.jpg</imagem>
+    </postagem>
+    <postagem codigo="2">
+        <titulo>Quanto tempo leva pra criar um jogo sozinho?</titulo>
+        <corpo>
+            Criar um jogo não é uma tarefa fácil, ainda mais quando estamos desenvolvendo sozinhos.
+
+Esse cenário está se tornando cada vez mais comum aqui no Brasil.
+
+Várias pessoas estão produzindo seus próprios games para realizar seus sonhos de ter um jogo publicado ou até mesmo ter algum rendimento extra.
+        </corpo>
+        <corpo_2>    
+            O problema é que quando chega na hora de sentar e desenvolver um jogo de fato, uma das dúvidas que surgem é a seguinte: quanto tempo leva para fazer um jogo sozinho?
+            Por isso que eu quero conversar a respeito com você!
+        </corpo_2>
+        <corpo_3>
+            Mais importante do que tempo para criar jogos sozinho
+
+        </corpo_3>
+        <corpo_4>
+             Para determinar o tempo de desenvolvimento de um jogo, antes você precisa saber quais são as suas habilidades
+
+Com essa informação, você vai poder determinar o melhor tipo de projeto para você desenvolver. 
+
+Pense que você é um artista gráfico que sabe pouco de programação e design, mas quer criar um jogo sozinho. Qual gênero de jogo abaixo você, como artista, desenvolveria:
+        </corpo_4>
+        <corpo_5>
+            1-Corrida   
+        </corpo_5>
+        <corpo_6>
+            2-RPG
+        </corpo_6>
+        <corpo_7>
+            3-Point-and-click
+
+        </corpo_7>
+        <corpo_8>
+            Pense de forma prática: se você quisesse criar um jogo de corrida, o desenvolvimento de um game do gênero teria foco em física e design de levels.
+
+Se optasse por criar um RPG, seria necessário investir bastante tempo na implementação de sistemas de níveis, batalhas e outras tantas complexidades que jogos do gênero possuem.
+
+Já no point-and-click, você como artista poderia investir seu tempo na criação na parte visual do jogo enquanto game design e programação são mais fáceis de serem implementados.
+
+Ou seja, games do gênero point-and-click são mais fáceis de serem desenvolvidos por pessoas que não têm ou têm pouca habilidade nas outras áreas de desenvolvimento de um jogo.
+        </corpo_8>
+        <corpo_9>
+        Durante a concepção das ideias para jogos, muitas vezes fica fácil de extrapolar e pensar em ideias para jogos que vão além da nossa capacidade de produção.
+
+Pode ser que o game fique grande demais e seu desenvolvimento se torna quase interminável, se arrastando por meses ou até anos e gerando frustrações.
+
+Se você está trabalhando nos primeiros jogos ou fazendo eles sozinho, o caminho que recomendo é desenvolvedor jogos pequenos e ir ganhando experiência no processo.
+        </corpo_9>
+        <corpo_10>
+        </corpo_10>
+        <imagem fileName="img_b.jpg">time.jpg</imagem>
+    </postagem>
+    
+    <postagem codigo="3">
+        <titulo>4 Lugares para publicar seu jogo</titulo>
+        <corpo>
+            Você passou por muita coisa até aqui.
+
+Aprendeu uma game engine, viu dezenas de entrevistas com desenvolvedores de sucesso, aprendeu um pouco sobre arte gráfica, áudio, gerenciamento de projetos, game design, dentre muitas outras coisas.
+        </corpo>
+        <corpo_2>    
+Neste artigo eu selecionei algumas das principais lojas online onde você pode publicar seus jogos. A seleção vai desde plataformas simples e gratuitas até as lojas virtuais de grandes empresas a  Microsoft.
+        </corpo_2>
+        <corpo_3>
+            App Store (iOS)
+
+        </corpo_3>
+        <corpo_4>
+             A Apple possui um programa para cadastro de desenvolvedores que queiram publicar aplicativos em sua loja, ficando com uma comissão de 30% sobre os ganhos. É preciso criar uma conta de desenvolvedor no serviço e pagar uma taxa anual de 99 dólares para poder publicar apps e jogos.
+        </corpo_4>
+        <corpo_5>
+           Microsoft
+        </corpo_5>
+        <corpo_6>
+Para lançar jogos para dispositivos como Xbox e Windows 10, a Microsoft possui um programa chamado Independent Developer (ID@XBOX), no qual é possível aplicar e participar de uma seleção que possibilitará ao desenvolvedor obter SDKs, kits de desenvolvimento e suporte para lançamento do game na plataforma da companhia.
+        </corpo_6>
+        <corpo_7>
+            Google Play
+
+        </corpo_7>
+        <corpo_8>
+            A Google Play abrange as centenas de milhares de aplicativos para dispositivos Android. O processo de aprovação de um app na loja pode durar pouco tempo – chegando até a 4 horas dependendo do app -, com uma taxa única de US$25 para obter a conta de desenvolvedor. A comissão cobrada é de 30% sobre as vendas.
+        </corpo_8>
+        <corpo_9>
+        Steam
+
+        </corpo_9>
+        <corpo_10>
+        A Steam é uma das plataformas mais acessadas por jogadores do mundo todo, possui produções de sucesso e mais de 14 mil títulos em sua base. Para ajudar desenvolvedores independentes a conquistarem um lugar dentro de sua plataforma, ela conta com o sistema da Steam Greenlight.
+
+
+Nesse método de publicação, você coloca o seu jogo para ser votado pela comunidade de jogadores da Steam. Se a comunidade te apoiar, você ganha o direito de publicar seu jogo na Steam. É preciso pagar uma taxa única (R$ 169,90 em 2017) para participar deste processo.
+        </corpo_10>
+        <imagem fileName="img_c.png">sell.png</imagem>
+    </postagem>
+</conteudo>

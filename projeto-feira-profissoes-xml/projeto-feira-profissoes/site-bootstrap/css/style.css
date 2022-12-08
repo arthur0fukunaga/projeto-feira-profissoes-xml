@@ -1,0 +1,50 @@
+
+  
+  #noticiaBloco {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    padding-top: 50px;
+  }
+  
+  .text {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    color: #fff;
+    gap: 10px;
+  }
+  
+  #noticiaTitulo a {
+    font-size: 30px;
+    color: #fff;  
+    text-decoration: none;
+  }
+
+  #post{
+    padding: 20px;
+  }
+  
+  #postTitle{
+    font-size: 60px;
+    color: #fff;
+    margin: 15px;
+    text-align: center;
+    font-weight:500;
+  }
+  
+  #postContent {
+    color: #ffffff;
+    padding: 20px;
+  }
+  
+  #postagemContent img {
+    margin-bottom: 5%;
+
+  }
+  
+  .body{
+    background: linear-gradient(21deg, rgba(0,0,0,1) 0%, rgba(0,2,33,1) 70%)
+  }
